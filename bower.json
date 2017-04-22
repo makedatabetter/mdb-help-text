@@ -4,7 +4,8 @@
   "main": "mdb-help-text.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
-    "paper-tooltip": "PolymerElements/paper-tooltip#^1.1.4"
+    "paper-tooltip": "PolymerElements/paper-tooltip#^1.1.4",
+    "iron-icon": "PolymerElements/iron-icon#^1.0.13"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
